@@ -1,2 +1,2 @@
-# themag_wedding
+# themag
 site d'annonce
